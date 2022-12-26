@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest10.4.cpp
+C:\Student\ChyrunSofialab10.4\ChyrunSofialab10.4\ChyrunSofialab10.4.cpp(121,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Student\ChyrunSofialab10.4\ChyrunSofialab10.4\ChyrunSofialab10.4.cpp(112,7): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Student\ChyrunSofialab10.4\ChyrunSofialab10.4\ChyrunSofialab10.4.cpp(123,7): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Student\ChyrunSofialab10.4\ChyrunSofialab10.4\ChyrunSofialab10.4.cpp(126,8): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Student\ChyrunSofialab10.4\ChyrunSofialab10.4\ChyrunSofialab10.4.cpp(108,20): warning C4101: 'finish': unreferenced local variable
+C:\Student\ChyrunSofialab10.4\UnitTest10.4\UnitTest10.4.cpp(17,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
